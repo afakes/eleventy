@@ -1,7 +1,7 @@
 {
   "name": "el",
   "version": "1.0.0",
-  "description": "",
+  "description": "https://mozilla.github.io/nunjucks/templating.html",
   "main": "index.js",
   "scripts": {
     "build": "eleventy",
@@ -15,5 +15,13 @@
   },
   "dependencies": {
     "luxon": "^3.0.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afakes/eleventy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/afakes/eleventy/issues"
+  },
+  "homepage": "https://github.com/afakes/eleventy#readme"
 }
